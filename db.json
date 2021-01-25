@@ -1,115 +1,127 @@
 {
 	"index":[
-   {
-      "alumniCitizenship":"MALAYSIA",
-      "alumniEmail":"yali@salute.moscow",
-      "alumniName":"TAN HUI MIN",
-      "batchName":"35",
-      "eduLevel":"Diploma",
-      "gender":"Female",
-      "graduateYear":2002,
-      "phoneNo":0,
-      "title":"Ms"
-   },
-   {
-      "alumniCitizenship":"Malaysia",
-      "alumniEmail":"ljo_oow@theoriginsprogram.net",
-      "alumniName":"NUR LIYANA BINTI ENCHIK ARIS",
-      "batchName":"35",
-      "eduLevel":"Diploma",
-      "gender":"Female",
-      "graduateYear":2002,
-      "phoneNo":0,
-      "title":"Ms"
-   },
-   {
-      "alumniCitizenship":"MALAYSIA",
-      "alumniEmail":"6naseer.far@wditu.com",
-      "alumniName":"NUR SYAZWANI BINTI MOHD KHAIRI",
-      "batchName":"35",
-      "eduLevel":"Diploma",
-      "gender":"Female",
-      "graduateYear":2002,
-      "phoneNo":0,
-      "title":"Mr"
-   },
-   {
-      "alumniCitizenship":"MALAYSIA",
-      "alumniEmail":"zfranci@vitaminc.news",
-      "alumniName":"ONG TEE YAU",
-      "batchName":"35",
-      "eduLevel":"Diploma",
-      "gender":"Male",
-      "graduateYear":2002,
-      "phoneNo":0,
-      "title":"Mr"
-   },
-   {
-      "alumniCitizenship":"MALAYSIA",
-      "alumniEmail":"iahmadmahmoud612@usn.pw",
-      "alumniName":"PANG LAI KIN",
-      "batchName":"35",
-      "eduLevel":"Diploma",
-      "gender":"Female",
-      "graduateYear":2002,
-      "phoneNo":0,
-      "title":"Ms"
-   },
-   {
-      "alumniCitizenship":"SINGAPORE",
-      "alumniEmail":"9macielbob@michiganpepsi.com",
-      "alumniName":"RAJA MOHD ZULKARNAIN",
-      "batchName":"35",
-      "eduLevel":"Diploma",
-      "gender":"Male",
-      "graduateYear":2002,
-      "phoneNo":0,
-      "title":"Ir"
-   },
-   {
-      "alumniCitizenship":"MALAYSIA",
-      "alumniEmail":"cworawitsamartb@usn.pw",
-      "alumniName":"SAZLI BIN YAHAYA",
-      "batchName":"35",
-      "eduLevel":"Diploma",
-      "gender":"Male",
-      "graduateYear":2002,
-      "phoneNo":0,
-      "title":"Mr"
-   },
-   {
-      "alumniCitizenship":"MALAYSIAN",
-      "alumniEmail":"hyoun@culturesnacks.us",
-      "alumniName":"THIAN SOO YING",
-      "batchName":"35",
-      "eduLevel":"Diploma",
-      "gender":"Female",
-      "graduateYear":2002,
-      "phoneNo":0,
-      "title":"Dr"
-   },
-   {
-      "alumniCitizenship":"MALAYSIA",
-      "alumniEmail":"ksimo.laasri.501d@lotomoneymaker.com",
-      "alumniName":"SITI SARAH BINTI MUKTATI",
-      "batchName":"35",
-      "eduLevel":"Diploma",
-      "gender":"Female",
-      "graduateYear":2002,
-      "phoneNo":0,
-      "title":"Dr"
-   },
-   {
-      "alumniCitizenship":"MALAYSIA",
-      "alumniEmail":"jhsha451t@arunachalnews.com",
-      "alumniName":"NUR 'ATIKAH BINTI ROHAIZAN",
-      "batchName":"35",
-      "eduLevel":"Diploma",
-      "gender":"Female",
-      "graduateYear":2002,
-      "phoneNo":0,
-      "title":"Ir"
-   }
+  [
+{
+"alumniCitizenship": "MALAYSIA",
+"alumniEmail": "yali@salute.moscow",
+"alumniName": "TAN HUI MIN",
+"batchName": "35",
+"eduLevel": "Diploma",
+"gender": "Female",
+"graduateYear": 2002,
+"password": "123456",
+"phoneNo": 0,
+"title": "Ms"
+},
+{
+"alumniCitizenship": "Malaysia",
+"alumniEmail": "ljo_oow@theoriginsprogram.net",
+"alumniName": "NUR LIYANA BINTI ENCHIK ARIS",
+"batchName": "35",
+"eduLevel": "Diploma",
+"gender": "Female",
+"graduateYear": 2002,
+"password": "123456",
+"phoneNo": 0,
+"title": "Ms"
+},
+{
+"alumniCitizenship": "MALAYSIA",
+"alumniEmail": "6naseer.far@wditu.com",
+"alumniName": "NUR SYAZWANI BINTI MOHD KHAIRI",
+"batchName": "35",
+"eduLevel": "Diploma",
+"gender": "Female",
+"graduateYear": 2002,
+"password": "123456",
+"phoneNo": 0,
+"title": "Mr"
+},
+{
+"alumniCitizenship": "MALAYSIA",
+"alumniEmail": "zfranci@vitaminc.news",
+"alumniName": "ONG TEE YAU",
+"batchName": "35",
+"eduLevel": "Diploma",
+"gender": "Male",
+"graduateYear": 2002,
+"password": "123456",
+"phoneNo": 0,
+"title": "Mr"
+},
+{
+"alumniCitizenship": "MALAYSIA",
+"alumniEmail": "iahmadmahmoud612@usn.pw",
+"alumniName": "PANG LAI KIN",
+"batchName": "35",
+"eduLevel": "Diploma",
+"gender": "Female",
+"graduateYear": 2002,
+"password": "123456",
+"phoneNo": 0,
+"title": "Ms"
+},
+{
+"alumniCitizenship": "SINGAPORE",
+"alumniEmail": "9macielbob@michiganpepsi.com",
+"alumniName": "RAJA MOHD ZULKARNAIN",
+"batchName": "35",
+"eduLevel": "Diploma",
+"gender": "Male",
+"graduateYear": 2002,
+"password": "123456",
+"phoneNo": 0,
+"title": "Ir"
+},
+{
+"alumniCitizenship": "MALAYSIA",
+"alumniEmail": "cworawitsamartb@usn.pw",
+"alumniName": "SAZLI BIN YAHAYA",
+"batchName": "35",
+"eduLevel": "Diploma",
+"gender": "Male",
+"graduateYear": 2002,
+"password": "123456",
+"phoneNo": 0,
+"title": "Mr"
+},
+{
+"alumniCitizenship": "MALAYSIAN",
+"alumniEmail": "hyoun@culturesnacks.us",
+"alumniName": "THIAN SOO YING",
+"batchName": "35",
+"eduLevel": "Diploma",
+"gender": "Female",
+"graduateYear": 2002,
+"password": "123456",
+"phoneNo": 0,
+"title": "Dr"
+},
+{
+"alumniCitizenship": "MALAYSIA",
+"alumniEmail": "ksimo.laasri.501d@lotomoneymaker.com",
+"alumniName": "SITI SARAH BINTI MUKTATI",
+"batchName": "35",
+"eduLevel": "Diploma",
+"gender": "Female",
+"graduateYear": 2002,
+"password": "123456",
+"phoneNo": 0,
+"title": "Dr"
+},
+{
+"alumniCitizenship": "MALAYSIA",
+"alumniEmail": "jhsha451t@arunachalnews.com",
+"alumniName": "NUR 'ATIKAH BINTI ROHAIZAN",
+"batchName": "35",
+"eduLevel": "Diploma",
+"gender": "Female",
+"graduateYear": 2002,
+"password": "123456",
+"phoneNo": 0,
+"title": "Ir"
+}
+]
 	
 ]
 
