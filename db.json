@@ -1,128 +1,76 @@
 {
 	"index":[
-  
-	{
-	"alumniCitizenship": "MALAYSIA",
-	"alumniEmail": "yali@salute.moscow",
-	"alumniName": "TAN HUI MIN",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Female",
-	"graduateYear": 2002,
-	"password": "123456",
-	"phoneNo": 0,
-	"title": "Ms"
-	},
-	{
-	"alumniCitizenship": "Malaysia",
-	"alumniEmail": "ljo_oow@theoriginsprogram.net",
-	"alumniName": "NUR LIYANA BINTI ENCHIK ARIS",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Female",
-	"graduateYear": 2002,
-	"password": "123456",
-	"phoneNo": 0,
-	"title": "Ms"
-	},
-	{
-	"alumniCitizenship": "MALAYSIA",
-	"alumniEmail": "6naseer.far@wditu.com",
-	"alumniName": "NUR SYAZWANI BINTI MOHD KHAIRI",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Female",
-	"graduateYear": 2002,
-	"password": "123456",
-	"phoneNo": 0,
-	"title": "Mr"
-	},
-	{
-	"alumniCitizenship": "MALAYSIA",
-	"alumniEmail": "zfranci@vitaminc.news",
-	"alumniName": "ONG TEE YAU",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Male",
-	"graduateYear": 2002,
-	"password": "123456",
-	"phoneNo": 0,
-	"title": "Mr"
-	},
-	{
-	"alumniCitizenship": "MALAYSIA",
-	"alumniEmail": "iahmadmahmoud612@usn.pw",
-	"alumniName": "PANG LAI KIN",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Female",
-	"graduateYear": 2002,
-	"password": "123456",
-	"phoneNo": 0,
-	"title": "Ms"
-	},
-	{
-	"alumniCitizenship": "SINGAPORE",
-	"alumniEmail": "9macielbob@michiganpepsi.com",
-	"alumniName": "RAJA MOHD ZULKARNAIN",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Male",
-	"graduateYear": 2002,
-	"password": "123456",
-	"phoneNo": 0,
-	"title": "Ir"
-	},
-	{
-	"alumniCitizenship": "MALAYSIA",
-	"alumniEmail": "cworawitsamartb@usn.pw",
-	"alumniName": "SAZLI BIN YAHAYA",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Male",
-	"graduateYear": 2002,
-	"password": "123456",
-	"phoneNo": 0,
-	"title": "Mr"
-	},
-	{
-	"alumniCitizenship": "MALAYSIAN",
-	"alumniEmail": "hyoun@culturesnacks.us",
-	"alumniName": "THIAN SOO YING",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Female",
-	"graduateYear": 2002,
-	"password": "123456",
-	"phoneNo": 0,
-	"title": "Dr"
-	},
-	{
-	"alumniCitizenship": "MALAYSIA",
-	"alumniEmail": "ksimo.laasri.501d@lotomoneymaker.com",
-	"alumniName": "SITI SARAH BINTI MUKTATI",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Female",
-	"graduateYear": 2002,
-"password": "123456",
-"phoneNo": 0,
-"title": "Dr"
-},
+  {
+    "EventName": "Pengenalan Kelab Sekolah Seni Bina UTM",
+    "eventDate": "20.02.2015",
+    "sponsorValue": "1000",
+    "year": "2015",   
+  },
+  {
+    "eventName": "Pengenalan Kelab Sekolah Seni Bina UTM",
+    "eventDate": "20.02.2015",
+    "sponsorValue": "1000",
+    "year": "2015",   
+  },
 {
-"alumniCitizenship": "MALAYSIA",
-"alumniEmail": "jhsha451t@arunachalnews.com",
-"alumniName": "NUR 'ATIKAH BINTI ROHAIZAN",
-"batchName": "35",
-"eduLevel": "Diploma",
-"gender": "Female",
-"graduateYear": 2002,
-"password": "123456",
-"phoneNo": 0,
-"title": "Ir"
-}
-
-	
+    "eventName": "UTM The lead in Architecture",
+    "eventDate": "30.01.2016",
+    "sponsorValue": "500",
+    "year": "2016",
+  },
+{
+    "eventName": "Professional Talk Series 2",
+    "eventDate": "30.03.2016",
+    "sponsorValue": "1000",
+    "year": "2016",
+  },
+{
+    "eventName": "Majlis Makan Malam Tahunan School Of Architecture",
+    "eventDate": "30.01.2019",
+    "sponsorValue": "5000",
+    "year": "2019",
+  },
+{
+    "eventName": "Majlis Makan Malam Tahunan School Of Architecture",
+    "eventDate": "30.01.2015",
+    "sponsorValue": "5500",
+    "year": "2015",
+  },
+{
+    "eventName": "Majlis Makan Malam Tahunan School Of Architecture",
+    "eventDate": "30.01.2018",
+    "sponsorValue": "6000",
+    "year": "2015",
+  },
+{
+    "eventName": "Majlis Makan Malam Tahunan School Of Architecture",
+    "eventDate": "30.01.2020",
+    "sponsorValue": "7900",
+    "year": "2020",
+  },
+{
+    "eventName": "Majlis Makan Malam Tahunan School Of Architecture",
+    "eventDate": "30.01.2017",
+    "sponsorValue": "6789",
+    "year": "2017",
+  },
+{
+    "eventName": "Majlis Makan Malam Tahunan School Of Architecture",
+    "eventDate": "30.01.2015",
+    "sponsorValue": "5409",
+    "year": "2015",
+  },
+{
+    "eventName": "Majlis Makan Malam Tahunan School Of Architecture",
+    "eventDate": "30.01.2016",
+    "sponsorValue": "7760",
+    "year": "2016",
+  },
+{
+    "eventName": "Arhitecture Olimpic",
+    "eventDate": "30.01.2019",
+    "sponsorValue": "3000",
+    "year": "2019",
+  },
 ]
-
 }
