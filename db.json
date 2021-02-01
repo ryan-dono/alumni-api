@@ -10,7 +10,7 @@
 	"gender": "Female",
 	"graduateYear": 2002,
 	"password": "123456",
-	"phoneNo": 0,
+	"phoneNo": 60-195-550-2,
 	"title": "Ms"
 	},
 	{
@@ -22,7 +22,7 @@
 	"gender": "Female",
 	"graduateYear": 2002,
 	"password": "123456",
-	"phoneNo": 0,
+	"phoneNo": 60-195-550-3,
 	"title": "Ms"
 	},
 	{
@@ -34,7 +34,7 @@
 	"gender": "Female",
 	"graduateYear": 2002,
 	"password": "123456",
-	"phoneNo": 0,
+	"phoneNo": 60-195-550-4,
 	"title": "Mr"
 	},
 	{
@@ -46,7 +46,7 @@
 	"gender": "Male",
 	"graduateYear": 2002,
 	"password": "123456",
-	"phoneNo": 0,
+	"phoneNo": 60-195-550-7,
 	"title": "Mr"
 	},
 	{
@@ -58,7 +58,7 @@
 	"gender": "Female",
 	"graduateYear": 2002,
 	"password": "123456",
-	"phoneNo": 0,
+	"phoneNo": 60-195-550-8,
 	"title": "Ms"
 	},
 	{
@@ -70,7 +70,7 @@
 	"gender": "Male",
 	"graduateYear": 2002,
 	"password": "123456",
-	"phoneNo": 0,
+	"phoneNo": 60-195-520-2,
 	"title": "Ir"
 	},
 	{
@@ -82,7 +82,7 @@
 	"gender": "Male",
 	"graduateYear": 2002,
 	"password": "123456",
-	"phoneNo": 0,
+	"phoneNo": 60-112-550-2,
 	"title": "Mr"
 	},
 	{
@@ -94,7 +94,7 @@
 	"gender": "Female",
 	"graduateYear": 2002,
 	"password": "123456",
-	"phoneNo": 0,
+	"phoneNo": 60-195-780-2,
 	"title": "Dr"
 	},
 	{
@@ -105,22 +105,22 @@
 	"eduLevel": "Diploma",
 	"gender": "Female",
 	"graduateYear": 2002,
-"password": "123456",
-"phoneNo": 0,
-"title": "Dr"
-},
-{
-"alumniCitizenship": "MALAYSIA",
-"alumniEmail": "jhsha451t@arunachalnews.com",
-"alumniName": "NUR 'ATIKAH BINTI ROHAIZAN",
-"batchName": "35",
-"eduLevel": "Diploma",
-"gender": "Female",
-"graduateYear": 2002,
-"password": "123456",
-"phoneNo": 0,
-"title": "Ir"
-}
+	"password": "123456",
+	"phoneNo": 60-145-520-2,
+	"title": "Dr"
+	},
+	{
+	"alumniCitizenship": "MALAYSIA",
+	"alumniEmail": "jhsha451t@arunachalnews.com",
+	"alumniName": "NUR 'ATIKAH BINTI ROHAIZAN",
+	"batchName": "35",
+	"eduLevel": "Diploma",
+	"gender": "Female",
+	"graduateYear": 2002,
+	"password": "123456",
+	"phoneNo":+60-171-130-9,
+	"title": "Ir"
+	}
 
 	
 ]
