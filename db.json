@@ -1,128 +1,119 @@
 {
-	"index":[
-  
-	{
-	"alumniCitizenship": "MALAYSIA",
-	"alumniEmail": "yali@salute.moscow",
-	"alumniName": "TAN HUI MIN",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Female",
-	"graduateYear": 2002,
-	"password": "123456",
-	"phoneNo": 0,
-	"title": "Ms"
-	},
-	{
-	"alumniCitizenship": "Malaysia",
-	"alumniEmail": "ljo_oow@theoriginsprogram.net",
-	"alumniName": "NUR LIYANA BINTI ENCHIK ARIS",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Female",
-	"graduateYear": 2002,
-	"password": "123456",
-	"phoneNo": 0,
-	"title": "Ms"
-	},
-	{
-	"alumniCitizenship": "MALAYSIA",
-	"alumniEmail": "6naseer.far@wditu.com",
-	"alumniName": "NUR SYAZWANI BINTI MOHD KHAIRI",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Female",
-	"graduateYear": 2002,
-	"password": "123456",
-	"phoneNo": 0,
-	"title": "Mr"
-	},
-	{
-	"alumniCitizenship": "MALAYSIA",
-	"alumniEmail": "zfranci@vitaminc.news",
-	"alumniName": "ONG TEE YAU",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Male",
-	"graduateYear": 2002,
-	"password": "123456",
-	"phoneNo": 0,
-	"title": "Mr"
-	},
-	{
-	"alumniCitizenship": "MALAYSIA",
-	"alumniEmail": "iahmadmahmoud612@usn.pw",
-	"alumniName": "PANG LAI KIN",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Female",
-	"graduateYear": 2002,
-	"password": "123456",
-	"phoneNo": 0,
-	"title": "Ms"
-	},
-	{
-	"alumniCitizenship": "SINGAPORE",
-	"alumniEmail": "9macielbob@michiganpepsi.com",
-	"alumniName": "RAJA MOHD ZULKARNAIN",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Male",
-	"graduateYear": 2002,
-	"password": "123456",
-	"phoneNo": 0,
-	"title": "Ir"
-	},
-	{
-	"alumniCitizenship": "MALAYSIA",
-	"alumniEmail": "cworawitsamartb@usn.pw",
-	"alumniName": "SAZLI BIN YAHAYA",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Male",
-	"graduateYear": 2002,
-	"password": "123456",
-	"phoneNo": 0,
-	"title": "Mr"
-	},
-	{
-	"alumniCitizenship": "MALAYSIAN",
-	"alumniEmail": "hyoun@culturesnacks.us",
-	"alumniName": "THIAN SOO YING",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Female",
-	"graduateYear": 2002,
-	"password": "123456",
-	"phoneNo": 0,
-	"title": "Dr"
-	},
-	{
-	"alumniCitizenship": "MALAYSIA",
-	"alumniEmail": "ksimo.laasri.501d@lotomoneymaker.com",
-	"alumniName": "SITI SARAH BINTI MUKTATI",
-	"batchName": "35",
-	"eduLevel": "Diploma",
-	"gender": "Female",
-	"graduateYear": 2002,
-"password": "123456",
-"phoneNo": 0,
-"title": "Dr"
-},
-{
+"AlumniGraduateYear": 0,
+"AlumniSalaryPrevious": 0,
+"AlumniSalaryuCurrent": 0,
 "alumniCitizenship": "MALAYSIA",
-"alumniEmail": "jhsha451t@arunachalnews.com",
-"alumniName": "NUR 'ATIKAH BINTI ROHAIZAN",
+"alumniEmail": "yali@salute.moscow",
+"alumniName": "TAN HUI MIN",
 "batchName": "35",
+"alumniAddressID": "Aid001",
+"alumniAddress": {
+"city": "BATU CAVES",
+"country": "MALAYSIA",
+"houseNo": "116",
+"postalCode": "68100",
+"region": "TAMAN BIDARA",
+"state": "SELANGOR",
+"streetName": "JALAN BIDARA 2/2"
+},
 "eduLevel": "Diploma",
 "gender": "Female",
 "graduateYear": 2002,
-"password": "123456",
 "phoneNo": 0,
-"title": "Ir"
-}
-
-	
-]
-
-}
+"title": "Ms"
+},
+{
+"AlumniGraduateYear": 0,
+"AlumniSalaryPrevious": 0,
+"AlumniSalaryuCurrent": 0,
+"alumniCitizenship": "Malaysia",
+"alumniEmail": "ljo_oow@theoriginsprogram.net",
+"alumniName": "NUR LIYANA BINTI ENCHIK ARIS",
+"batchName": "35",
+"alumniAddressID": "Aid002",
+"alumniAddress": {
+"city": "KUALA LUMPUR",
+"country": "MALAYSIA",
+"houseNo": "NO 11",
+"postalCode": "54000",
+"state": "KUALA LUMPUR",
+"streetName": "LORONG BUKIT KERAMAR"
+},
+"eduLevel": "Diploma",
+"gender": "Female",
+"graduateYear": 2002,
+"phoneNo": 0,
+"title": "Ms"
+},
+{
+"AlumniGraduateYear": 0,
+"AlumniSalaryPrevious": 0,
+"AlumniSalaryuCurrent": 0,
+"alumniCitizenship": "MALAYSIA",
+"alumniEmail": "6naseer.far@wditu.com",
+"alumniName": "NUR SYAZWANI BINTI MOHD KHAIRI",
+"batchName": "35",
+"alumniAddressID": "Aid003",
+"alumniAddress": {
+"city": "BAYAN BARU",
+"country": "MALAYSIA",
+"houseNo": "NO 30",
+"postalCode": "11950",
+"region": "TAMAN SRI TUNAS",
+"state": "PULAU PINANG",
+"streetName": "LORONG MAYANG ASIR 2"
+},
+"eduLevel": "Diploma",
+"gender": "Female",
+"graduateYear": 2002,
+"phoneNo": 0,
+"title": "Mr"
+},
+{
+"AlumniGraduateYear": 0,
+"AlumniSalaryPrevious": 0,
+"AlumniSalaryuCurrent": 0,
+"alumniCitizenship": "MALAYSIA",
+"alumniEmail": "zfranci@vitaminc.news",
+"alumniName": "ONG TEE YAU",
+"batchName": "35",
+"alumniAddressID": "Aid004",
+"alumniAddress": {
+"city": "SITIAWAN",
+"country": "MALAYSIA",
+"houseNo": "NO 1",
+"postalCode": "32000",
+"region": "PADANG HARROF",
+"state": "PERAK",
+"streetName": "JALAN HAJI MOHD ALI"
+},
+"eduLevel": "Diploma",
+"gender": "Male",
+"graduateYear": 2002,
+"phoneNo": 0,
+"title": "Mr"
+},
+{
+"AlumniGraduateYear": 0,
+"AlumniSalaryPrevious": 0,
+"AlumniSalaryuCurrent": 0,
+"alumniCitizenship": "MALAYSIA",
+"alumniEmail": "iahmadmahmoud612@usn.pw",
+"alumniName": "PANG LAI KIN",
+"batchName": "35",
+"alumniAddressID": "Aid005",
+"alumniAddress": {
+"city": "SEREMBAN",
+"country": "MALAYSIA",
+"houseNo": "NO 44",
+"postalCode": "70300",
+"region": "TAMAN RASAH JAYA",
+"state": "NEGERI SEMBILAN",
+"streetName": "JALAN RJ 1/1"
+},
+"eduLevel": "Diploma",
+"gender": "Female",
+"graduateYear": 2002,
+"phoneNo": 0,
+"title": "Ms"
+},
