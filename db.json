@@ -24,7 +24,8 @@
 "gender": "Female",
 "graduateYear": 2002,
 "phoneNo": 0,
-"title": "Ms"
+"title": "Ms",
+"password" : "123456"
 },
 {
 "AlumniGraduateYear": 0,
@@ -47,7 +48,8 @@
 "gender": "Female",
 "graduateYear": 2002,
 "phoneNo": 0,
-"title": "Ms"
+"title": "Ms",
+  "password" : "123456"
 },
 {
 "AlumniGraduateYear": 0,
@@ -71,7 +73,8 @@
 "gender": "Female",
 "graduateYear": 2002,
 "phoneNo": 0,
-"title": "Mr"
+"title": "Mr",
+  "password" : "123456"
 },
 {
 "AlumniGraduateYear": 0,
@@ -95,7 +98,8 @@
 "gender": "Male",
 "graduateYear": 2002,
 "phoneNo": 0,
-"title": "Mr"
+"title": "Mr",
+  "password" : "123456"
 },
 {
 "AlumniGraduateYear": 0,
@@ -119,7 +123,8 @@
 "gender": "Female",
 "graduateYear": 2002,
 "phoneNo": 0,
-"title": "Ms"
+"title": "Ms",
+  "password" : "123456"
 }
 
   
